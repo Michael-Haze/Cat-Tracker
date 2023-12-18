@@ -1,0 +1,27 @@
+- Database Management
+- Manually inputing and updating
+- Easily searchable
+- Fixed columns
+- Notes column
+
+
+Columns
+- Intake date *
+- Disposition
+- Room Number *
+- Cat Name *
+- Domestic Hair Length
+- Description *
+- Sex
+- DOB *
+- Age (Calculated from DOB) *
+- age group (kitten, adult, senior)
+- Spay date
+- Vet (where they got spayed/vaccines/etc.)
+- Spay status
+- Vaccines(FVRCP1&2, rabies)
+- Intake Info
+- Notes
+- Microchip #
+
+Name, DOB, Age, Description, Room #, Intake Date
